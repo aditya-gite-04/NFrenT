@@ -26,5 +26,9 @@ Time-Bound Tokens bring transformative ideas to time-limited phenomena, unlockin
 - Creating automated market makers (AMMs) for swapping TBT tokens across different timelines or trading present and future tokens.
 - Revolutionizing the gaming industry by enabling game guilds to rent out their NFTs to players in exchange for earning game rewards.
 - Serving as escrow positions, acting as intermediaries to secure assets until predefined conditions are met.
+- for subscription based services => avail specific services during the subscription period
+- time-limited voting/gov => can enable special abilities during a specific time interval
+- time dependent access/rewards => can be used for contributors based on engagement in the community of a protocol which enables them with elite powers
+- renting RWAs
 
 NFrenT's innovative approach not only addresses current market inefficiencies but also opens doors to exciting future developments in the intersection of NFTs, DeFi, and gaming.
