@@ -1,54 +1,29 @@
-# NFrenT - Why let your NFTs sit idle? Rent 'em
+# NFrenT - Rent Your NFTs with Time-Bound Tokens
+
 ## The Problem
-Market of inactive NFT Holders
--> Satiated by the utilities that the NFT provides
-  - stoner cats - once the show is watched
-  - BAYC - no interest anymore
-  - don't want to actively manage NFT positions - Uni v3
--> Want to jump into newer exciting NFTs while not loosing ownership of the current ones
--> Simply earn some bucks on NFTs that sit idly in the portfolio
+In the world of NFTs, many holders find themselves with inactive assets, such as those from projects like Stoner Cats or Bored Ape Yacht Club (BAYC). Once the initial excitement fades, these NFTs often sit idle in portfolios. Users, however, may be eager to explore newer and more exciting NFT opportunities without losing ownership of their existing assets. This creates a market mismatch between inactive NFT holders and those who admire or seek to utilize these positions.
 
-                                MATCH with ⥯
+**MATCH with ⥯**
 
-Market of admirers of the same NFTs, communitiesor to use the positions to gain the fees
+NFrenT aims to bridge this gap, connecting owners of idle NFTs with enthusiasts or communities looking to leverage these assets for various purposes.
 
-## The Time Bound Tokens
-### a token that makes it possible to transfer and manage ownership of the timeline of an asset
-Time bounded assets like
-- for subscription based services => avail specific services during the subscription period
-- time-limited voting/gov => can enable special abilities during a specific time interval
-- time dependent access/rewards => can be used for contributors based on engagement in the community of a protocol which enables them with elite powers
-- renting RWAs
-- escrow positions => acting as intermediaries, secure assets until predefined conditions are met
+## Time Bound Tokens
+### A Token for Managing Ownership Over Time
+NFrenT introduces Time-Bound Tokens (TBT), a novel concept enabling the transfer and management of ownership based on the timeline of an asset. This opens up possibilities for time-bound assets like subscription-based services, time-limited voting, access to rewards, renting real-world assets, and serving as escrow positions.
 
-  ![image](https://github.com/aditya-gite-04/NFrenT/assets/55936621/a619d171-43b5-4283-98c2-1f5ff24838e1)
+![Time-Bound Tokens](https://github.com/aditya-gite-04/NFrenT/assets/55936621/a619d171-43b5-4283-98c2-1f5ff24838e1)
 
-Designed as a utility token
-The owner of the TBT has the right to utilize the underlying asset for some economic benefit via calling the utility function
-Ownership of the token is determined by checking if present time is part of the claim of the timeline by the user.
-
-Example of these benefits could be the following:
-- Minting new Axie infinity breeds with the wrapped Axies.
-- Collecting fees with the wrapped Uniswap liquidity position.
-- Calling a governance related function.
-- Swapping between USDC and ETH following a constant sum formula (options).
-- Representing renting of real estates.
-- Recurring Payments
+Designed as utility tokens, TBT holders have the right to utilize the underlying assets for economic benefits through specific utility functions. Ownership is determined by checking if the present time falls within the user's claimed timeline. Examples of benefits include creating new Axie Infinity breeds, collecting fees from Uniswap liquidity positions, governance participation, and more.
 
 ## Rent Them
-
-The platform enables users to rent their NFTs, with the help of TBTs, that would otherwise do nothing sitting in the portfolio
-because users genrally keep on having attention shift from one NFT hype project to other OR have already used up the privilages that come with the NFTs
+NFrenT's platform empowers users to rent out their idle NFTs using TBTs. This addresses the common scenario where users experience a shift in attention from one NFT project to another or have exhausted the privileges associated with their current NFTs.
 
 ![User Flow](https://github.com/aditya-gite-04/NFrenT/assets/55936621/740340eb-b366-49ca-8d22-be276d80ba81)
 
-## Future scope
+## Future Scope
+Time-Bound Tokens bring transformative ideas to time-limited phenomena, unlocking new possibilities such as:
+- Creating automated market makers (AMMs) for swapping TBT tokens across different timelines or trading present and future tokens.
+- Revolutionizing the gaming industry by enabling game guilds to rent out their NFTs to players in exchange for earning game rewards.
+- Serving as escrow positions, acting as intermediaries to secure assets until predefined conditions are met.
 
-The Time-bound tokens come with game changing ideas when it comes to time limited phenomenons.
-- creating automated market makers (AMMs) -> allowing the swapping of TBT tokens between different timelines or trading present and future tokens
-- in the ever growing gaming industry -> enabling game guilds to rent out their NFTs to players in exchange for earning game rewards
-- escrow positions -> acting as intermediaries, secure assets until predefined conditions are met
-
-
-
-
+NFrenT's innovative approach not only addresses current market inefficiencies but also opens doors to exciting future developments in the intersection of NFTs, DeFi, and gaming.
