@@ -18,7 +18,7 @@ Designed as utility tokens, TBT holders have the right to utilize the underlying
 NFrenT's platform empowers users to rent out their idle NFTs using TBTs. This addresses the common scenario where users experience a shift in attention from one NFT project to another or have exhausted the privileges associated with their current NFTs.
 Renting is similar to above architecture but just the owner before and after a certain interval is same like the diagram below
 ![image](https://github.com/aditya-gite-04/NFrenT/assets/55936621/4b1ed76f-f4e0-4ed0-8572-9f099a458567)
-
+[**NFrenT Prototype**](https://www.figma.com/proto/1LFatBI5D9U24zeHnVWRly/NFrenT?type=design&node-id=1204-19985&t=clVJJAXe1qOLIGRA-1&scaling=scale-down&page-id=86%3A15029&mode=design)
 ![User Flow](https://github.com/aditya-gite-04/NFrenT/assets/55936621/740340eb-b366-49ca-8d22-be276d80ba81)
 
 ## Future Scope
