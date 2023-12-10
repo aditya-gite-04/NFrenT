@@ -1,8 +1,7 @@
 # NFrenT - Rent Your NFTs with Time-Bound Tokens
 
 ## The Problem
-In the world of NFTs, many holders find themselves with inactive assets, such as those from projects like Stoner Cats or Bored Ape Yacht Club (BAYC). Once the initial excitement fades, these NFTs often sit idle in portfolios. Users, however, may be eager to explore newer and more exciting NFT opportunities without losing ownership of their existing assets. This creates a market between inactive NFT holders 
-**MATCH with ⇔** those who admire or seek to utilize these positions.
+In the world of NFTs, many holders find themselves with inactive assets, such as those from projects like Stoner Cats or Bored Ape Yacht Club (BAYC). Once the initial excitement fades, these NFTs often sit idle in portfolios. Users, however, may be eager to explore newer and more exciting NFT opportunities without losing ownership of their existing assets. This creates a market between inactive NFT holders /n **MATCH with ⇔** those who admire or seek to utilize these positions.
 
 
 NFrenT aims to bridge this gap, connecting owners of idle NFTs with enthusiasts or communities looking to leverage these assets for various purposes.
